@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`typography component should render typography component 1`] = `
+<div>
+  <h1>
+    test
+  </h1>
+</div>
+`;
